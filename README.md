@@ -1,4 +1,4 @@
 > 👋 Hi there
 
-> 🌱 I’m currently learning JavaScript | React | C++ | C#
+> 🌱 I’m currently learning JavaScript | React
 
